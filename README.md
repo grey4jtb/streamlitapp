@@ -1,0 +1,2 @@
+# streamlitapp
+project idea
